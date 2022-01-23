@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 100 days of Hacking
+title: ILE Project - Ethical Hacking
 description: "A blog documenting my journey of learning how to hack"
 author:
   name: "Erik Larson"
