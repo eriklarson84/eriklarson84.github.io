@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is a blog documenting my journey of learning how to hack. I am doing  a "100 days of Hacking" challenge where I spend time each day dedicated to learning about cybersecurity and hacking, and writing my findings here. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Follow me on Social Media:
+Github: eriklarson84
+Twitter: eriklarson03
+HackerOne:
+TryHackMe:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll

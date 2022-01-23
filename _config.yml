@@ -22,7 +22,7 @@ title: 100 days of Hacking
 description: "A blog documenting my journey of learning how to hack"
 author:
   name: "Erik Larson"
-  email: "someone@somewebsite.somedomain"
+  email: "erikindiana@gmail.com"
   url: "https://eriklarson84.github.io"
 
 #baseurl: /
@@ -44,8 +44,8 @@ defaults:
 future: true
 
 # Custom variables
-owner : "SomeHacker"
-year : "2020"
+owner : "Erik Larson"
+year : "2022"
 
 #google_analytics:
 
