@@ -18,24 +18,44 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: https://eriklarson84.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: 100 days of Hacking
+description: "A blog documenting my journey of learning how to hack"
+author:
+  name: "Erik Larson"
+  email: "someone@somewebsite.somedomain"
+  url: "https://eriklarson84.github.io"
 
-show_downloads: false
+#baseurl: /
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+
+# Custom variables
+owner : "SomeHacker"
+year : "2020"
+
 #google_analytics:
 
 # Build settings
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-paginate
+- jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
