@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reflection 1"
+date:   2022-02-12 02:15:21 -0500
+categories: jekyll update
+---
+
+This is the first post for my ILE Project Blog. I created this blog using Jekyll, and it is hosted on Github Pages. You can check out the repo on Github [here](https://github.com/eriklarson84/eriklarson84.github.io).
+This week I started going through TryHackMe's [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) learning path. This is a really good material for learning the fundamental technical skills needed for Bug Bounty Hunting and pentesting. I have started learning about some of the most common web application vulnerabilities (Authentication Bypass, IDOR, File Inclusion, SSRF, and XSS). Some of the exercises have been really challenging, but I have been learning alot. For now I am going to keep going through this learning path, once I finish I will move on to something new.
