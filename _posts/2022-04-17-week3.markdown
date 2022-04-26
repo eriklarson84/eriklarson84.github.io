@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Reflection 3"
-date:   2022-04-17 02:15:21 -0500
-categories: jekyll update
----
-
-This is the second reflection for my ILE Project Blog. 
-This week I continued going through TryHackMe's [Jr Penetration Tester](https://tryhackme.com/path/outline/jrpenetrationtester) learning path. I have learned about the web vulnerabilities SQL Injection and Command Injection. Also I have started to learn how to use Burp Suite to automatically read web requests. Also I started to do some CTF's on the website HackTheBox. A CTF stands for capture the flag, and basically what you do is look through some vulnerable code to try to find a "flag" hidden somewhere in it. It has been fun to apply what I'm learning to a simulated real world scenario. It is difficult because you don't always know where to even start looking, but that makes it super rewarding when you do find it.

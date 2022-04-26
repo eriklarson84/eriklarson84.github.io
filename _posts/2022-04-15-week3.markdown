@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Reflection 3"
+date:   2022-04-15 02:15:21 -0500
+categories: jekyll update
+---
+
+This is the third reflection for my ILE Project Blog. 
+This week was less technical than the others. I read a book called "Ghost in the Wires" by Kevin Mitnick which is a memoir of Kevin Mitnick, who was a hacker on the run from the FBI for several years, but now owns a cyber security consulting firm. From reading his book I learned about how you need to understand how cyber criminals think and act in order to help protect people from them. 
+I have struggled recently trying to manage all of my school work and other things with this learning. My biggest problem recently has been time management and trying to balance everything while still having time to work on this project and learn. Although I haven't done as much technical work since the last reflection I still have done some. I have continued learning and doing more CTFs on HackTheBox. Moving forward I am going to put more emphasis on learning more practical skills and working thorugh more practice exercises and CTFs. 
