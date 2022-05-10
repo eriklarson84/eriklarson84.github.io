@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Reflection 4"
+date:   2022-04-29 02:15:21 -0500
+categories: jekyll update
+---
+
+This is the fourth reflection for my ILE Project Blog. 
+As the end of the year is getting closer I realize that most likely I won't be able to accomplish my original goal of finding a real software vulnerability by summer. However, I have learned alot through this semester about cybersecurity and bug bounty hunting. Next year in college I plan to study cybersecurity so I think doing this project has helped to give me a head start. I hope to keep developing these skills to start finding real bugs either this summer or during my time in college. 
+
+This week specifically I continued doing some HackTheBox CTF's, and I was learning about more advanced XSS techniques. I think XSS is a really interesting vulnerability and I want to keep learning more about it.
